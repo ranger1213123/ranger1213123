@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ranger1213123
-- 👀 I am a freshman in SCU
-- 🌱 I’m currently learning C++ and C，working on the leetcode problems solving.
+- 👀 I am a freshman majoring software engineering in SCU
+- 🌱 I’m currently learning Python and go.
 - I will share my experience on leetcoding stuffs.
 
 <!---
