@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ranger1213123
 - 👀 I am a freshman majoring software engineering in SCU
-- 🌱 I’m currently learning Python and go.
-- I will share my experience on leetcoding stuffs.
+- 🌱 I’m currently learning Python and c++.
+- I will share my experience on leetcoding stuffs and my projects.
 
 <!---
 ranger1213123/ranger1213123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
